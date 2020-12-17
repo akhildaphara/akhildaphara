@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ### Read my latest blogs 💡
 
 <!-- BLOG-POST-LIST:START -->
+- [THE BEST PORTFOLIO WEBSITE OF 2020](https://akhildaphara.hashnode.dev/the-best-portfolio-website-of-2020)
 <!-- BLOG-POST-LIST:END -->
