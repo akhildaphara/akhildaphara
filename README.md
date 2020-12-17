@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Akhil Daphara
+
+To know more about me, check out my website
+
+[akhildaphara.me](https://akhildaphara.me/)
 
 <!--
 **akhildaphara/akhildaphara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Read my latest blogs 💡
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
