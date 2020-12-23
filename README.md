@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 ### Read my latest blogs 💡
 
 <!-- BLOG-POST-LIST:START -->
+- [NPM package which you should add to almost any git repo😺](https://akhildaphara.hashnode.dev/husky)
 - [THE BEST PORTFOLIO WEBSITE OF 2020](https://akhildaphara.hashnode.dev/the-best-portfolio-website-of-2020)
 <!-- BLOG-POST-LIST:END -->
