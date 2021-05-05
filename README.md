@@ -25,6 +25,9 @@ Check out my website:
 ### Read My Latest Articles 💡
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve your git commit message quality](https://akhildaphara.hashnode.dev/commitlint)
+- [NPM package which you should add to almost any git repo😺](https://akhildaphara.hashnode.dev/husky)
+- [THE BEST PORTFOLIO WEBSITE OF 2020](https://akhildaphara.hashnode.dev/the-best-portfolio-website-of-2020)
 <!-- BLOG-POST-LIST:END -->
 
 ### &#x1f4c8; My GitHub Stats
