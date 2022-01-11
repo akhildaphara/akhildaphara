@@ -12,6 +12,7 @@ Check out my website:
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fakhildaphara.me%2F)
 
 ### My Projects 💻
+- [Semantic Segmentation using E-Net](https://gabrieldeml.github.io/CS539-final/)
 - [Stocks Automation Using Python](https://github.com/akhildaphara/automate-stock)
 - [Automatically Generate Short Description of an Image](https://gist.github.com/akhildaphara/bf9d15edfd8ba29e217c6e25d84f4336)
 - [Automatically Generate Short Description of an Image (With Smaller Vocabulary)](https://gist.github.com/akhildaphara/44524f748aa94c3b361df9c0cb62ce3a)
