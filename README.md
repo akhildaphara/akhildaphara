@@ -9,7 +9,7 @@
 
 Check out my website:
 [akhildaphara.github.io](https://akhildaphara.github.io/)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fakhildaphara.me%2F)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fakhildaphara.github.io%2F)
 
 ### My Projects 💻
 - [Semantic Segmentation using E-Net](https://gabrieldeml.github.io/CS539-final/)
