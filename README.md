@@ -8,7 +8,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/akhildaphara?style=social)
 
 Check out my website:
-[AkhilDaphara.me](https://akhildaphara.me/)
+[akhildaphara.github.io](https://akhildaphara.github.io/)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fakhildaphara.me%2F)
 
 ### My Projects 💻
@@ -34,5 +34,6 @@ Check out my website:
 ### &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildaphara&hide=java,html,css&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=akhildaphara)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚡ **Fun fact :** _CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”_
