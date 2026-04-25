@@ -31,9 +31,4 @@ Check out my website:
 - [THE BEST PORTFOLIO WEBSITE OF 2020](https://akhildaphara.hashnode.dev/the-best-portfolio-website-of-2020)
 <!-- BLOG-POST-LIST:END -->
 
-### &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildaphara&hide=java,html,css&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=akhildaphara)](https://github.com/anuraghazra/github-readme-stats)
-
 ⚡ **Fun fact :** _CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”_
